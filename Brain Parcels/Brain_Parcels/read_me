@@ -1,0 +1,4 @@
+All parcels for the atlases are sorted in order, based on XCP_D output and atlas .nii.gz files. 
+
+For atlases not in XCP_D (Power, Brainnetome), code was used to transform xcp_d output into these atlases. 
+
