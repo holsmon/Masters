@@ -1,0 +1,85 @@
+Brainnetome:
+1	Visual1
+2	Visual2
+3	Sensorimotor1
+4	Sensorimotor2
+5	DorsalAtten2
+6	DorsalAtten1
+7	VentralAtten
+8	Frontoparietal1
+9	LIM-1
+10	LIM-2
+11	Frontoparietal2
+12	Frontoparietal3
+13	Frontoparietal4
+14	Sensorimotor3
+15	DefaultMode3
+16	DefaultMode1
+17	DefaultMode2
+18	Subcorticol
+19	Cerebellar
+
+Schaefer: 
+1	ControlA
+2	ControlB
+3	ControlC
+4	DefaultA
+5	DefaultB
+6	DefaultC
+7	DorsalAttentionA
+8	DorsalAttentionB
+9	LimbicA
+10	LimbicB
+11	Salience/VenAttnA
+12	Salience/VenAttnB
+13	SomatomotorA
+14	SomatomotorB
+15	TemporalParietal
+16	VisualCentral
+17	VisualPeripheral
+
+Glasser:
+1	Visual1 (primary)
+2	Visual2 (secondary)
+3	Somatomotor
+4	Cingulo-opercular
+5	langauge
+6	default
+7	frontoparietal
+8	auditory
+9	posterior-multimodal
+10	dorsal-attention
+11	ventral-multimodal
+12	orbito-affective
+
+
+Gordon	
+1	Default
+2	Smhand
+3	Smmouth
+4	Visual
+5	Frontoparitel
+6	Auditory
+7	CinguloParietal
+8	Retrosplenial Temporal
+9	CinguloOperc
+10	Ventral Attn
+11	Salience
+12	Dorsal Attn
+13	No Label
+
+Power	
+1	Sensory/somatomotorHand
+2	Sensory/somatomotorMouth
+3	Cingulo-opercularTaskControl
+4	Auditory
+5	DefaultMode
+6	MemoryRetreival?
+7	Visual
+8	Fronto-parietal Task Control
+9	Salience
+10	Subcortical
+11	VentralAttn
+12	DorsalAttn
+13	Cerebellar
+14	Unknown
