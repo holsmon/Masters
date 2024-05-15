@@ -1,6 +1,6 @@
 Scripts are .m MATLAB scripts
 
-The .csv is an example of the type of input that should be fed into MATLAB. This is a pearson correlation connectivity matrix that has the network labels removed. 400 x 400 matrix for Scahefer 400 atlas
+The .csv is an example of the type of input that should be fed into MATLAB. This is a pearson correlation connectivity matrix that has the network labels removed. 360 x 360 matrix for Glasser atlas
 
-The .xls is an exmaple of network labels for the modularity and within network, between, and segregation scripts. See google doc below for more details on these scripts
+The .xls is an exmaple of network labels for the modularity and within network, between, and segregation scripts. This example is the 17 network labels (in order) for Schaefer atlas. See google doc below for more details on these scripts
 https://docs.google.com/document/d/1q87w9Zj2qbZpqBbu8HyziD-1Lq_SFaCvVauH5IOadjM/edit
