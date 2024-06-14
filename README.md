@@ -1,2 +1,2 @@
 # Masters
-This is code related to my Masters Thesis
+This contains all code used for my Masters thesis.
