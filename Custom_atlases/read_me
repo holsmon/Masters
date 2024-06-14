@@ -1,1 +1,5 @@
 This folder contains scripts that are used to obtain xcp_d output using other atlases. This folder contains examples for the Brainnetome and Power atlases. 
+
+The script "transform_bna_power_to_MNI152.py" transforms the original nifti files for Brainnetome and Power into MNI 152 space to match xcp_d output.
+
+Within the Power and Brainnetome folders contains scripts to take processed output from xcp_d and obtain pearson correlation coefficient matrices in Power and Brainnetome atlases. 
